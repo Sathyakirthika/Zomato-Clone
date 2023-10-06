@@ -1,0 +1,63 @@
+.loginpage{
+    width:35%;
+    text-align: center;
+    margin-top: 35px;
+    margin-right:100px;
+    padding:10px;
+    color: black;
+}
+
+.email,.pwd{
+    padding: 20px;
+    width:35%;
+    height: 15px;
+    border-radius: 5px;
+}
+.button{
+    width:35%;
+    height:40px;
+    color:white;
+    font-size: large;
+    background-color: red;
+    margin:5px;
+    padding:10px;
+    border:1em red;
+    
+}
+
+.login {
+    margin-left: 100px;
+    width : 1000px;
+}
+
+.newacc{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    padding-top: 2px;
+    border:1em red;
+    width:25%;
+    height: 25px;
+    border-radius: 5px;
+    margin:5px;
+    background-color: tomato;
+    margin-bottom: 15px;
+    margin-left:125px;
+    margin-top:175px;
+}
+.res{
+    height:15px;
+    width:30%;
+    text-align: center;
+    margin-left:70px;
+    border-radius: 5px;
+
+}
+#zomato{
+    color:red;
+    text-decoration: solid;
+    text-align: center;
+    font-weight: bold;
+    padding: 2px;
+}

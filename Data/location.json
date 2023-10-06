@@ -1,0 +1,47 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "_id": "64b66004b56a635a924366e7",
+            "name": "ShalimarBagh",
+            "city_id": 1,
+            "location_id": 1,
+            "city": "Delhi",
+            "country_name": "India"
+        },
+        {
+            "_id": "64b66004b56a635a924366e8",
+            "name": "Janpat",
+            "city_id": 2,
+            "location_id": 2,
+            "city": "Delhi",
+            "country_name": "India"
+        },
+        {
+            "_id": "64b66004b56a635a924366e9",
+            "name": "Shalimar Bagh",
+            "city_id": 1,
+            "location_id": 1,
+            "city": "Delhi",
+            "country_name": "India"
+        },
+        {
+            "_id": "64b66004b56a635a924366ea",
+            "name": "Shalimar Begh",
+            "city_id": 1,
+            "location_id": 1,
+            "city": "Pune",
+            "country_name": "India"
+        },
+        {
+            "_id": "64b66004b56a635a924366eb",
+            "name": "AnandVihar",
+            "city_id": 1,
+            "location_id": 5,
+            "city": "Delhi",
+            "country_name": "India"
+        }
+    ],
+    "message": "Successfully",
+    "error": false
+}

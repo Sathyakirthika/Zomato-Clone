@@ -1,0 +1,25 @@
+
+.top{
+    padding: 25px;
+    width: 100%;
+   /*  background-color: orangered;  */
+    position: relative;
+  }
+  .logo1{
+    position: absolute;
+    margin-top: -15px;
+    padding: 10px;
+    margin-left: 30px;
+    background-color: white;
+    border-radius: 50%;
+    color: orangered;
+    font-weight:900;
+    font-size: 30px;
+  }
+  .create{
+   align-items: end;
+   line-height: inherit;
+   margin-left: 70%;
+  
+
+  }

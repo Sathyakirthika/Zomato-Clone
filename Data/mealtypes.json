@@ -1,0 +1,49 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "_id": "64b6601fb56a635a924366ed",
+            "name": "Breakfast",
+            "content": "Start your day with exclusive breakfast options",
+            "image": "Assets/breakfast.jpg",
+            "meal_type": 1
+        },
+        {
+            "_id": "64b6601fb56a635a924366ee",
+            "name": "Lunch",
+            "content": "Start your day with exclusive lunch options",
+            "image": "Assets/lunch.jpg",
+            "meal_type": 2
+        },
+        {
+            "_id": "64b6601fb56a635a924366ef",
+            "name": "Dinner",
+            "content": "Start your day with exclusive dinner options",
+            "image": "Assets/dinner.png",
+            "meal_type": 3
+        },
+        {
+            "_id": "64b6601fb56a635a924366f0",
+            "name": "Snacks",
+            "content": "Start your day with exclusive snacks options",
+            "image": "Assets/snacks.png",
+            "meal_type": 4
+        },
+        {
+            "_id": "64b6601fb56a635a924366f1",
+            "name": "Drinks",
+            "content": "Start your day with exclusive drinks options",
+            "image": "Assets/drinks.png",
+            "meal_type": 5
+        },
+        {
+            "_id": "64b6601fb56a635a924366f2",
+            "name": "NightLife",
+            "content": "Start your day with exclusive nightlife options",
+            "image": "Assets/nightlife.png",
+            "meal_type": 6
+        }
+    ],
+    "message": "Successfully",
+    "error": false
+}
